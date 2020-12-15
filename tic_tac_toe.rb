@@ -8,7 +8,7 @@ class Game
     [1, 5, 9], [3, 5, 7]             # diaganol wins
   ]
   def initialize 
-    puts "Let's play\n TIC\nTAC\nTOE!!!!!"
+    puts "Let's play\nTIC\nTAC\nTOE!!!!!"
     @game_state = [1, 2, 3, 4, 5, 6, 7, 8, 9]
   end
 
